@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O10Qj+XevRTsjPAHLcbnNXUbeo/20WsCTL5mi+AtpK+UecNlt9R3Mt4snenKDQ/9mpjj8t76fg9qxBqtpTRYCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilya\\source\\repos\\zoooom.net_core\\zoooom.net_core\\zoooom.net_core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilya\\.nuget\\packages\\dlibdotnet\\19.18.0.20200525\\dlibdotnet.19.18.0.20200525.nupkg.sha512"
+  ],
+  "logs": []
+}
